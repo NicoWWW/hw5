@@ -5,10 +5,11 @@
 #include <algorithm> 
 #include <map>
 #include <set>
-#endif
-
 #include "wordle.h"
 #include "dict-eng.h"
+#endif
+
+
 using namespace std;
 
 // Add prototypes of helper functions here
